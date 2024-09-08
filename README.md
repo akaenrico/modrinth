@@ -1,1 +1,3 @@
-![https://modrinth.com](modrinth.png)
+<p align="center">
+  <img src="modrinth.png" />
+</p>
