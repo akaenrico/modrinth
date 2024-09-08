@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="modrinth.png" style="max-width: 50px"/>
+  <img src="modrinth.png" style="width: 50px"/>
 </p>
